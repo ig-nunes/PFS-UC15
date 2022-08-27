@@ -1,0 +1,12 @@
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto1\Calculadora de IMC\CaulculadoraIMCPFS\CaulculadoraIMCPFS\bin\Debug\net6.0\CalculadoraIMCPFS.deps.json
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto1\Calculadora de IMC\CaulculadoraIMCPFS\CaulculadoraIMCPFS\bin\Debug\net6.0\CalculadoraIMCPFS.dll
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto1\Calculadora de IMC\CaulculadoraIMCPFS\CaulculadoraIMCPFS\bin\Debug\net6.0\CalculadoraIMCPFS.pdb
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto1\Calculadora de IMC\CaulculadoraIMCPFS\CaulculadoraIMCPFS\obj\Debug\net6.0\CalculadoraIMCPFS.csproj.AssemblyReference.cache
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto1\Calculadora de IMC\CaulculadoraIMCPFS\CaulculadoraIMCPFS\obj\Debug\net6.0\CalculadoraIMCPFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto1\Calculadora de IMC\CaulculadoraIMCPFS\CaulculadoraIMCPFS\obj\Debug\net6.0\CalculadoraIMCPFS.AssemblyInfoInputs.cache
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto1\Calculadora de IMC\CaulculadoraIMCPFS\CaulculadoraIMCPFS\obj\Debug\net6.0\CalculadoraIMCPFS.AssemblyInfo.cs
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto1\Calculadora de IMC\CaulculadoraIMCPFS\CaulculadoraIMCPFS\obj\Debug\net6.0\CalculadoraIMCPFS.csproj.CoreCompileInputs.cache
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto1\Calculadora de IMC\CaulculadoraIMCPFS\CaulculadoraIMCPFS\obj\Debug\net6.0\CalculadoraIMCPFS.dll
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto1\Calculadora de IMC\CaulculadoraIMCPFS\CaulculadoraIMCPFS\obj\Debug\net6.0\refint\CalculadoraIMCPFS.dll
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto1\Calculadora de IMC\CaulculadoraIMCPFS\CaulculadoraIMCPFS\obj\Debug\net6.0\CalculadoraIMCPFS.pdb
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto1\Calculadora de IMC\CaulculadoraIMCPFS\CaulculadoraIMCPFS\obj\Debug\net6.0\ref\CalculadoraIMCPFS.dll

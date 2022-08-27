@@ -1,0 +1,12 @@
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto2\CalculadoraPFS\CalculadoraPFS\bin\Debug\net6.0\CalculadoraPFS.deps.json
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto2\CalculadoraPFS\CalculadoraPFS\bin\Debug\net6.0\CalculadoraPFS.dll
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto2\CalculadoraPFS\CalculadoraPFS\bin\Debug\net6.0\CalculadoraPFS.pdb
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto2\CalculadoraPFS\CalculadoraPFS\obj\Debug\net6.0\CalculadoraPFS.csproj.AssemblyReference.cache
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto2\CalculadoraPFS\CalculadoraPFS\obj\Debug\net6.0\CalculadoraPFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto2\CalculadoraPFS\CalculadoraPFS\obj\Debug\net6.0\CalculadoraPFS.AssemblyInfoInputs.cache
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto2\CalculadoraPFS\CalculadoraPFS\obj\Debug\net6.0\CalculadoraPFS.AssemblyInfo.cs
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto2\CalculadoraPFS\CalculadoraPFS\obj\Debug\net6.0\CalculadoraPFS.csproj.CoreCompileInputs.cache
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto2\CalculadoraPFS\CalculadoraPFS\obj\Debug\net6.0\CalculadoraPFS.dll
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto2\CalculadoraPFS\CalculadoraPFS\obj\Debug\net6.0\refint\CalculadoraPFS.dll
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto2\CalculadoraPFS\CalculadoraPFS\obj\Debug\net6.0\CalculadoraPFS.pdb
+C:\Users\inune\Desktop\Programador Full-Stack - Senai\Unidade Curricular 15\EncontroRemoto2\CalculadoraPFS\CalculadoraPFS\obj\Debug\net6.0\ref\CalculadoraPFS.dll
